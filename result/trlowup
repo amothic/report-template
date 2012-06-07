@@ -1,0 +1,6 @@
+amothic @ futami $ cc trlowup.c -o trlowup
+amothic @ futami $ ./trlowup
+abcde
+ABCDE
+AbCdE
+ABCDE
